@@ -24,7 +24,7 @@ int main()
     {
       printf("%s Lose\n",name);
     }
-  //printf("Helooooooooooooooooooooooooo\n");
+  printf("Helooooooooooooooooooooooooo\n");
   
   return 0;
 }
