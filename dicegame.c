@@ -19,10 +19,10 @@ int main()
   printf("Total value: %d\n",total);
   if(total > 7)
     {
-      printf("You Won\n");
+      printf("%s Won\n",name);
     } else
     {
-      printf("You Lose\n");
+      printf("%s Lose\n",name);
     }
   //printf("Helooooooooooooooooooooooooo\n");
   
